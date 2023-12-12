@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/Draw_alarm-clock.png</file>
+        <file>img/pngtree-pink-alarm-clock-time-clock-time-png-image_2210555.jpg</file>
+    </qresource>
+</RCC>
